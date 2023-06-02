@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/StarBucks/static/css/main.371d3bc5.css",
+    "main.js": "/StarBucks/static/js/main.1e8b7f78.js",
+    "static/js/787.784b7f79.chunk.js": "/StarBucks/static/js/787.784b7f79.chunk.js",
+    "static/media/coffee.jpg": "/StarBucks/static/media/coffee.a17b1c720d1cb78dee35.jpg",
+    "static/media/home.png": "/StarBucks/static/media/home.08a10004735e4baa6acc.png",
+    "index.html": "/StarBucks/index.html",
+    "main.371d3bc5.css.map": "/StarBucks/static/css/main.371d3bc5.css.map",
+    "main.1e8b7f78.js.map": "/StarBucks/static/js/main.1e8b7f78.js.map",
+    "787.784b7f79.chunk.js.map": "/StarBucks/static/js/787.784b7f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.371d3bc5.css",
+    "static/js/main.1e8b7f78.js"
+  ]
+}
